@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Hello Friends"
 set -x
 
 PORT=${PORT:-8080}
